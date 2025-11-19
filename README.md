@@ -377,8 +377,8 @@
         <div style="display: flex; gap: 50px; flex-wrap: wrap; justify-content: center;">
             <div style="flex-basis: 300px; text-align: center;">
                 <img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80" alt="Equipo técnico" style="border-radius: 14px; width: 100%; box-shadow: 0 5px 15px rgba(38,71,19,0.3);" />
-                <h3>Juan Pérez</h3>
-                <p>Ingeniero Civil y Director Técnico</p>
+                <h3>Antonella Rocuzzo</h3>
+                <p>Ingeniera Civil y Director Técnico</p>
             </div>
             <div style="flex-basis: 300px; text-align: center;">
                 <img src="https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=300&q=80" alt="Equipo capacitación" style="border-radius: 14px; width: 100%; box-shadow: 0 5px 15px rgba(38,71,19,0.3);" />
@@ -387,7 +387,7 @@
             </div>
             <div style="flex-basis: 300px; text-align: center;">
                 <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=80" alt="Equipo atención cliente" style="border-radius: 14px; width: 100%; box-shadow: 0 5px 15px rgba(38,71,19,0.3);" />
-                <h3>Pedro Alvarez</h3>
+                <h3>Alejandro Cáceres</h3>
                 <p>Asesor Comercial y Postventa</p>
             </div>
         </div>
@@ -418,7 +418,7 @@
         <h2>Testimonios de Clientes</h2>
         <ul class="testimonios-lista">
             <li>
-                "La calidad del producto y el acompañamiento de Aislando Futuro excedieron nuestras expectativas. Un servicio humano y profesional." – <strong>Andrés G.</strong>
+                "La calidad del producto y el acompañamiento de Aislando Futuro excedieron nuestras expectativas. Un servicio humano y profesional." – <strong>Bastián López.</strong>
             </li>
             <li>
                 "Los cursos fueron muy claros, aprendí desde cero cómo instalar la lana de oveja en los proyectos que lidero, y el ahorro energético ha sido real." – <strong>Laura V.</strong>
